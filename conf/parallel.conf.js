@@ -14,7 +14,7 @@ define({
     { browser: 'Chrome' },
     { browser: 'Firefox' },
     { browser: 'Safari' },
-    { browser: 'IE' },
+    { browser: 'Edge' },
   ],
 
   maxConcurrency: 4,
