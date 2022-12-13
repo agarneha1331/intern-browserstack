@@ -12,7 +12,6 @@ define({
 
   environments: [
     { browser: 'Chrome' },
-    { browser: 'Firefox' },
     { browser: 'Safari' },
     { browser: 'Edge' },
   ],
