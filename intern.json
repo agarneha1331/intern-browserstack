@@ -20,20 +20,20 @@
   "environments": [
     {
       "os": "OS X",
-      "os_version": "Big Sur",
-      "browser_name" : "Chrome",
-      "browser_version": "latest"
+      "osVersion": "Big Sur",
+      "browserName" : "Chrome",
+      "browserVersion": "latest"
     },
     {
       "os": "Windows",
-      "os_version": "10",
-      "browser_name" : "Edge",
-      "browser_version": "latest"
+      "osVersion": "10",
+      "browserName" : "Edge",
+      "browserVersion": "latest"
     },
     {
       "device": "Samsung Galaxy S22 Ultra",
-      "os_version": "12.0",
-      "browser_name" : "Chrome"
+      "osVersion": "12.0",
+      "browserName" : "Chrome"
     }
   ]
 }
